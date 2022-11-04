@@ -43,7 +43,7 @@
     <!--Color palette-->
 
     <color name="pink">#D2B8FF</color> <!--Color primary (dark)-->
-    <color name="blue">#A5E3DD</color> <!--Color primary (light)-->
+    <color name="blue">#17BFAD</color> <!--Color primary (light)-->
     <color name="purple_600">#4b01d0</color> <!--Color primary variant (dark)-->
     <color name="purple_700">#3700b3</color> <!--Color primary variant (light)-->
 
