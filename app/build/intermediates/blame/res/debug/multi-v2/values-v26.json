@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\FPDAM\\2nd\\t1\\DesarrolloInterfaces\\COMPONENTES\\Material\\MaterialThemeBuilder\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
+            "outputFile": "E:\\FPDAM\\2nd\\t1\\DesarrolloInterfaces\\COMPONENTES\\MaterialPractica\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v26\\values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\smoll\\.gradle\\caches\\transforms-2\\files-2.1\\70ee6daa73720f73f1c131a251c19163\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
+                    "source": "C:\\Users\\am13Dam2\\.gradle\\caches\\transforms-2\\files-2.1\\70ee6daa73720f73f1c131a251c19163\\appcompat-1.1.0\\res\\values-v26\\values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",
